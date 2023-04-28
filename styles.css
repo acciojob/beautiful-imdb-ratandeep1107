@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+body{
+    background-color: rgb(61, 61, 61);
+}
+main h1{
+    color: goldenrod;
+    text-align: center;
+    margin: 5rem;
+}
+.moviePic{
+    height: 26rem;
+    width: 18rem;
+    opacity: .85;
+    box-shadow: rgb(242, 225, 99) 0px 0px 50px 10px ;
+    position: absolute;
+    left: 40rem;
+}
+ .movieDetail{
+    position: relative;
+    top: 30rem;
+    width: 60%;
+    word-break: break-word;
+    text-align: center;
+    font-size: 20px;
+    color: yellow;
+    left: 20rem;
+}
